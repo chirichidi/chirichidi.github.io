@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Chirichidi's Blog
-url: 'https://chirichidi.github.io'
+url: 'http://chirichidi.github.io'
 baseurl: '' #change it according to your repository name
 description: For notes, record, resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
